@@ -1,0 +1,7 @@
+# Default colors
+#import = [
+#  "~/.config/alacritty/themes/themes/kanagawa_wave.toml",
+#]
+
+live_config_reload = true
+opacity = 0.33
